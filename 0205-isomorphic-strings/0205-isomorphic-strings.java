@@ -1,0 +1,29 @@
+class Solution {
+    public boolean isIsomorphic(String s, String t) {
+        if (s.length() != t.length()) return false;
+
+        int[] mapST = new int[256]; // s -> t
+        int[] mapTS = new int[256]; // t -> s
+
+        // Initialize with -1
+        for (int i = 0; i < 256; i++) {
+            mapST[i] = -1;
+            mapTS[i] = -1;
+        }
+
+        for (int i = 0; i < s.length(); i++) {
+            char c1 = s.charAt(i);
+            char c2 = t.charAt(i);
+
+            if (mapST[c1] == -1 && mapTS[c2] == -1) {
+                mapST[c1] = c2;
+                mapTS[c2] = c1;
+            } else {
+                if (mapST[c1] != c2 || mapTS[c2] != c1) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}
