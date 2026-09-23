@@ -128,4 +128,8 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tharun4743/Java_Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 <!---LeetCode Topics End-->
