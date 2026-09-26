@@ -124,6 +124,7 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,5 +132,10 @@ flowchart LR
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tharun4743/Java_Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
