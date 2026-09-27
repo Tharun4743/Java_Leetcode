@@ -133,9 +133,18 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tharun4743/Java_Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
