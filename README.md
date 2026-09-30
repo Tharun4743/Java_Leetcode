@@ -143,9 +143,22 @@ flowchart LR
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
