@@ -125,6 +125,7 @@ flowchart LR
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +162,20 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
