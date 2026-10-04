@@ -124,6 +124,7 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0046-permutations](https://github.com/Tharun4743/Java_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
@@ -178,4 +179,8 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Tharun4743/Java_Leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
