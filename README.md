@@ -138,6 +138,7 @@ flowchart LR
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Tharun4743/Java_Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Tharun4743/Java_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0263-ugly-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tharun4743/Java_Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -189,4 +190,8 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Tharun4743/Java_Leetcode/tree/main/0046-permutations/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Tharun4743/Java_Leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
