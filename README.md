@@ -194,4 +194,9 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Tharun4743/Java_Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Tharun4743/Java_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Tharun4743/Java_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
