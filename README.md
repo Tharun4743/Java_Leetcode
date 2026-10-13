@@ -128,11 +128,13 @@ flowchart LR
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Tharun4743/Java_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Tharun4743/Java_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ flowchart LR
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Tharun4743/Java_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0263-ugly-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tharun4743/Java_Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Matrix
@@ -178,6 +181,7 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +203,12 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Tharun4743/Java_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
