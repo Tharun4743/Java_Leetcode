@@ -232,6 +232,7 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0709-to-lower-case](https://github.com/Tharun4743/Java_Leetcode/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
 <!-- =========================================================================
    SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
