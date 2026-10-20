@@ -146,12 +146,14 @@ flowchart LR
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Tharun4743/Java_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,10 @@ flowchart LR
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0709-to-lower-case](https://github.com/Tharun4743/Java_Leetcode/tree/main/0709-to-lower-case/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
 <!-- =========================================================================
    SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
