@@ -239,6 +239,10 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
 <!-- =========================================================================
    SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
