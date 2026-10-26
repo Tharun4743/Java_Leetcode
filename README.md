@@ -145,6 +145,7 @@ flowchart LR
 | [0073-set-matrix-zeroes](https://github.com/Tharun4743/Java_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0189-rotate-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
@@ -160,6 +161,7 @@ flowchart LR
 | [0007-reverse-integer](https://github.com/Tharun4743/Java_Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Tharun4743/Java_Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
@@ -196,6 +198,7 @@ flowchart LR
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Tharun4743/Java_Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
