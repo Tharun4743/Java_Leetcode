@@ -148,6 +148,7 @@ flowchart LR
 | [0189-rotate-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0682-baseball-game](https://github.com/Tharun4743/Java_Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,10 +182,12 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Tharun4743/Java_Leetcode/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/Tharun4743/Java_Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0682-baseball-game](https://github.com/Tharun4743/Java_Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
