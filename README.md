@@ -248,6 +248,7 @@ flowchart LR
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/Tharun4743/Java_Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
 <!-- =========================================================================
