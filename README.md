@@ -147,6 +147,7 @@ flowchart LR
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun4743/Java_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0682-baseball-game](https://github.com/Tharun4743/Java_Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Hash Table
@@ -207,6 +208,7 @@ flowchart LR
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Tharun4743/Java_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Tharun4743/Java_Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
