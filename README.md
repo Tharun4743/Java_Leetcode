@@ -140,6 +140,7 @@ flowchart LR
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tharun4743/Java_Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0045-jump-game-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Tharun4743/Java_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Tharun4743/Java_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Tharun4743/Java_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -192,6 +193,7 @@ flowchart LR
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ flowchart LR
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun4743/Java_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0709-to-lower-case](https://github.com/Tharun4743/Java_Leetcode/tree/main/0709-to-lower-case/) | Easy |
 ## Prefix Sum
