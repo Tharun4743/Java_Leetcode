@@ -96,3 +96,15 @@ flowchart TD
     </td>
   </tr>
 </table>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+<!---LeetCode Topics End-->
