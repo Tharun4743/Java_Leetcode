@@ -107,4 +107,12 @@ flowchart TD
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0400-nth-digit](https://github.com/Tharun4743/Java_Leetcode/tree/main/0400-nth-digit/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0400-nth-digit](https://github.com/Tharun4743/Java_Leetcode/tree/main/0400-nth-digit/) | Medium |
 <!---LeetCode Topics End-->
