@@ -108,11 +108,13 @@ flowchart TD
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0400-nth-digit](https://github.com/Tharun4743/Java_Leetcode/tree/main/0400-nth-digit/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@ flowchart TD
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 <!---LeetCode Topics End-->
