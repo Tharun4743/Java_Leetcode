@@ -113,6 +113,7 @@ flowchart TD
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0400-nth-digit](https://github.com/Tharun4743/Java_Leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Binary Search
@@ -131,5 +132,14 @@ flowchart TD
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
