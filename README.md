@@ -107,6 +107,7 @@ flowchart TD
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/Tharun4743/Java_Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tharun4743/Java_Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tharun4743/Java_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -133,6 +134,7 @@ flowchart TD
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0290-word-pattern](https://github.com/Tharun4743/Java_Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
