@@ -135,6 +135,7 @@ flowchart TD
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0290-word-pattern](https://github.com/Tharun4743/Java_Leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Tharun4743/Java_Leetcode/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -144,4 +145,16 @@ flowchart TD
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Tharun4743/Java_Leetcode/tree/main/0067-add-binary/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Tharun4743/Java_Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
